@@ -25,7 +25,9 @@ body{
     align-items: center;
     gap:10px;
 }
-
+.table_heading{
+    font-weight: 700;
+}
 
 
 
